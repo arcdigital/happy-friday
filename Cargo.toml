@@ -1,0 +1,11 @@
+[package]
+
+name = "happy-friday"
+version = "0.0.2"
+authors = [ "Tom Richards <tom@tomrichards.net>" ]
+
+[dependencies]
+
+hyper = "0.9.10"
+rand = "0.3.14"
+rustc-serialize = "0.3.19"
