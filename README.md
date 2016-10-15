@@ -10,6 +10,7 @@ It is scheduled to run on Fridays at 07:00 eastern time.
 
  - [Rust][rust] `=1.12.0`
  - [Cargo][cargo] `=0.13.0`
+ - make
 
 # Getting started
 
@@ -25,6 +26,9 @@ $ cargo build
 
 # Run the application
 $ cargo run
+
+# Package the application for AWS lambda
+$ make
 ```
 
 [rust]: https://www.rust-lang.org/
