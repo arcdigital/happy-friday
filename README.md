@@ -6,6 +6,10 @@ distributions (and by extension, AWS Lambda).
 
 It is scheduled to run on Fridays at 07:00 eastern time.
 
+# Example
+
+![friday](https://cloud.githubusercontent.com/assets/3905798/19406168/ecebd63c-924e-11e6-8a48-cc32f998e5a4.png)
+
 # System requirements
 
  - [Rust][rust] `=1.12.0`
