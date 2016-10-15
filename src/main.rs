@@ -18,7 +18,8 @@ fn main() {
     // Select a random video from this list of fun fun fun videos
     let videos = [
         "https://www.youtube.com/watch?v=kfVsfOSbJY0",
-        "https://www.youtube.com/watch?v=I1188GO4p1E"
+        "https://www.youtube.com/watch?v=I1188GO4p1E",
+        "https://www.youtube.com/watch?v=KlyXNRrsk4A"
     ];
     let video = rand::thread_rng().choose(&videos).unwrap();
 
