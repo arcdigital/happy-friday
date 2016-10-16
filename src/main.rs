@@ -20,7 +20,8 @@ fn main() {
         "https://www.youtube.com/watch?v=kfVsfOSbJY0",
         "https://www.youtube.com/watch?v=I1188GO4p1E",
         "https://www.youtube.com/watch?v=KlyXNRrsk4A",
-        "https://www.youtube.com/watch?v=akT0wxv9ON8"
+        "https://www.youtube.com/watch?v=akT0wxv9ON8",
+        "https://www.youtube.com/watch?v=7-iLzd-HKRg"
     ];
     let video = rand::thread_rng().choose(&videos).unwrap();
 
